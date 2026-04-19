@@ -27,14 +27,9 @@ Used df.shape to identify total rows and columns.
 
 ## Results (Screenshots)
 
-### First 5 Rows
-![head](screenshots/head.png)
-
-### Data Info
-![info](screenshots/info.png)
-
-### Dataset Shape
-![shape](screenshots/shape.png)
+![head](head.png)
+![info](info.png)
+![shape](shape.png)
 
 ## Conclusion
 The dataset contains multiple air quality indicators recorded across different monitoring stations in Beijing. The data structure includes both numerical and categorical features.
